@@ -17,7 +17,7 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"Hola mundo");
+        JOptionPane.showMessageDialog(null,"Alberto se la come");
     }
     
 }
